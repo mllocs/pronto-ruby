@@ -20,7 +20,7 @@ gem 'pronto-scss'
 gem 'pronto-erb_lint', '~>0.1'
 
 # https://github.com/libgit2/rugged/issues/860
-gem 'rugged', '~>0.28.5'
+gem 'rugged', '~>0.99.0'
 
 gem 'rubocop-performance', require: false
 gem 'rubocop-minitest', require: false
